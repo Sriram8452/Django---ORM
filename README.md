@@ -2,6 +2,15 @@
 
 ## AIM
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
+## DESIGN STEPS
+## STEP 1:
+create the django domain
+## STEP 2:
+then from the the django.db import the models and then from the django.contribute import
+the admin
+## STEP 3:
+then create your own model by defining the class and with the respective comments
+
 
 ## Entity Relationship Diagram
 
